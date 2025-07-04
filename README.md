@@ -50,9 +50,9 @@ This structured initiative focused on strengthening algorithmic foundations thro
 - Mid-term and Final Reports
 
 ## Assignments Completed
-
-- **Assignment 1** – [STL, Modular Arithmetic, Sorting, Greedy Algorithms](./Assignment_1/)
-- **Assignment 2** – [Dynamic Programming, Graph Algorithms](./Assignment_2/)
+- **Solution of Assignments are in following links**
+- **Assignment 1** – [STL, Modular Arithmetic, Sorting, Greedy Algorithms](./ACA_1/)
+- **Assignment 2** – [Dynamic Programming, Graph Algorithms](./ACA_2/)
 
 ## Resources
 
