@@ -4,7 +4,7 @@ A comprehensive, mentor-guided project organized under **Association of Computer
 
 ---
 
-## Important Resources (Highly Recommended)
+## Important Resources 
 
 All key materials, lecture PDFs, curated problems, and C++ reference codes are available in the centralized resource repository:
 
