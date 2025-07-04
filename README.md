@@ -4,7 +4,7 @@ A comprehensive, mentor-guided project organized under **Association of Computer
 
 ---
 
-## 📦 Important Resources (Highly Recommended)
+## Important Resources (Highly Recommended)
 
 All key materials, lecture PDFs, curated problems, and C++ reference codes are available in the centralized resource repository:
 
@@ -19,7 +19,7 @@ This repository contains:
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 **Mastering Algorithms** was conducted from **May to July 2024** under the mentorship of:
 
@@ -30,14 +30,14 @@ This repository contains:
 
 The project aimed to strengthen foundational and advanced topics in algorithms through a well-structured 8-week curriculum, regular problem-solving, and one-on-one mentorship.
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - Proficiency in **C++ STL**, **modular arithmetic**, **bit manipulation**, and **data structures**
 - Strong grasp of **recursion**, **greedy**, **dynamic programming**, and **graph algorithms**
 - Exposure to **combinatorics**, **game theory**, and **probabilistic techniques**
 - Enhanced readiness for **competitive programming** and **technical interviews**
 
-## 📆 Weekly Curriculum
+## Weekly Curriculum
 
 | Week       | Topics                                                                 |
 |------------|------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ The project aimed to strengthen foundational and advanced topics in algorithms t
 | Week 6     | Dynamic Programming, LCS, Knapsack, TSP                                |
 | Week 7–8   | Graph Theory, DFS/BFS, Dijkstra, Spanning Trees                        |
 
-## 🛠️ Methodology
+## Methodology
 
 1. **Conceptual sessions** with real-world illustrations  
 2. **Hands-on coding** of each topic in C++  
@@ -56,13 +56,13 @@ The project aimed to strengthen foundational and advanced topics in algorithms t
 4. **Alternate-day algorithmic puzzles** (Project Euler-style)  
 5. **Live doubt sessions** and peer interactions via WhatsApp
 
-## 📝 Deliverables
+## Deliverables
 
 - **2 Major Programming Assignments**
 - Weekly curated problem sets
 - Mid-term and End-term Reports
 
-## ✅ Assignments Completed
+## Assignments Completed
 
 Solutions are provided in the following directories:
 
