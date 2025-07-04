@@ -1,4 +1,4 @@
-# Mastering Algorithms | ACA'24
+# Mastering Algorithms | ACA Summer Project'24
 
 A comprehensive, mentor-guided project organized under **Association of Computer Activities (ACA), Society of the Department of Computer Science and Engineering, IIT Kanpur** to help students master algorithmic problem-solving for competitive programming and technical interviews.
 
